@@ -454,7 +454,6 @@ header{
 	background-position:center top;
 }
 
-.contact_sections .row h2{}
 .contact_sections .row h2:after{
 	background:#273a71;
 }
@@ -510,7 +509,6 @@ header{
 	border-top:.1rem solid rgba(255,255,255,0.15);
 }
 
-.footer_section ul{}
 .footer_section ul li{
 	display:inline-block;
 	padding:1.5rem;
