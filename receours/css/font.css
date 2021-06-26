@@ -1,0 +1,13 @@
+/* fint-face is not raning ......
+@font-face{
+	font-family:"Titilium";
+	src:url("receours/fonts/TitilliumWeb-Bold.ttf") formet("ttf"),
+		url("receours/fonts/TitilliumWeb-Light.ttf") formet("ttf"),
+		url("receours/fonts/TitilliumWeb-Regular.ttf") formet("ttf"),
+		url("receours/fonts/TitilliumWeb-SemiBold.ttf") formet("ttf");		
+}
+
+*/
+/* Titilium fonts links */
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600;700&display=swap');
+
