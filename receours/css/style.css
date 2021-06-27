@@ -116,6 +116,9 @@ header{
 	position:relative;
 	
 }
+.hero_text_box{
+	width:114rem;
+}
 .header_logo{
 	height:3.5rem;
 	width:auto;
